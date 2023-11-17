@@ -1,0 +1,11 @@
+.card-container {
+    width: 50%; /* Set the width to 50% of the container */
+    float: left; /* Float the container to the left */
+    /* You can add more styles as needed */
+  }
+  
+  /* Additional styles for the other half of the page, if needed */
+  .other-half {
+    width: 50%;
+    float: left;
+  }

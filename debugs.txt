@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=2VXQL3Pk0Bs
+https://www.youtube.com/watch?v=Ny1g-Wk5nyM
+https://stackoverflow.com/questions/73961938/flask-sqlalchemy-db-create-all-raises-runtimeerror-working-outside-of-applicat
+https://stackoverflow.com/questions/62522125/flask-on-windows-powershell/62534280#62534280
+https://stackoverflow.com/questions/62697065/flask-sqlalchemy-importerror-file-stdin-line-1-in-module-cannot-import
+
+
+https://stackoverflow.com/questions/76435306/babel-preset-react-app-is-importing-the-babel-plugin-proposal-private-propert
+
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted

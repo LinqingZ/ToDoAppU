@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+langchain_experimental
+langchain
+openai
+python-dotenv
