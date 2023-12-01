@@ -4,3 +4,7 @@ langchain_experimental
 langchain
 openai
 python-dotenv
+chromadb
+numpy
+datasets
+# pip install h5py typing-extensions wheel
